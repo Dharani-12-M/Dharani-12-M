@@ -5,7 +5,7 @@
  
 - 💼 I’m currently working as a **Software Tester** -
 - 🔍 Passionate about finding bugs before users do
-- 🧪 Experienced in **Manual Testing**, **Automation (Selenium, Postman, Cypress, TestNG)**
+- 🧪 Experienced in **Manual Testing**, **Automation (Selenium, Postman, Cypress, Rest Assured,TestNG)**
 - 🧰 Skilled in writing test cases, test plans, and bug reports
 - 🌱 I’m currently learning **Mobile Automation Tool(Appium)**
 - 🌱 Currently exploring **Playwright**, **API Automation**, and **CI/CD Testing**
